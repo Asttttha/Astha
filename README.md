@@ -26,9 +26,9 @@ I'm a Front-end developer 🖥️ currently based in Kolkata, West Bengal 🌆. 
 
 ### Contact Information 📞✉️
 - **Email**: asthas2018@gmail.com
-- **LinkedIn**: [Astha Samaddar](https://www.linkedin.com/in/astha-samaddar/)
+- **LinkedIn**: https://www.linkedin.com/in/astha-samaddar-228406228/
 - **GitHub**: [Asttttha](https://github.com/Asttttha)
-- **Portfolio**: [asttttha.github.io](https://asttttha.github.io/)
+- **Portfolio**: https://asttttha.github.io/Portfolio./
 - **Location**: Kolkata, West Bengal 🌆
 
 ### Technical Skills 🛠️
