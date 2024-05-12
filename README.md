@@ -22,7 +22,7 @@
 <h3 align="center">I'm a Front-end developer <img src="https://camo.githubusercontent.com/b8fead6533e883d4bcc925eaa028c9815dd19d911ea5ed1b9ce8107faacfbafb/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6465616c7769746869746e6f77706172726f742e676966" width="30"> currently based in Kolkata, West Bengal. <br> I'm passionate about crafting efficient solutions and delightful user experiences.</h3>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asttttha&show_icons=true&locale=en" alt="ashutosh-pmishra" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asttttha&" alt="" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Asttttha&show_icons=true&locale=en" alt="ashutosh-pmishra" width="400" /> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Asttttha&" alt="" width="400" /></p>
 
 <br>
 <h2 align="center">Languages and tools</h2>
