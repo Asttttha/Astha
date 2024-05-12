@@ -1,12 +1,34 @@
-## Hey there, I'm Astha Samaddar! 👋
 
-I'm a Front-end developer 🖥️ currently based in Kolkata, West Bengal 🌆. I'm passionate about crafting efficient solutions and delightful user experiences. Currently seeking opportunities for internships 🎓 and excited about contributing to Open Source projects 🚀.
 
-### 💻 Tech Stack
 
-#### Languages and Tools:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">Astha Samaddar's    <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100"></h1>
+<br>
+
+<h3 align="center">I'm a Front-end developer <img src="https://camo.githubusercontent.com/b8fead6533e883d4bcc925eaa028c9815dd19d911ea5ed1b9ce8107faacfbafb/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6465616c7769746869746e6f77706172726f742e676966" width="30"> currently based in Kolkata, West Bengal. <br> I'm passionate about crafting efficient solutions and delightful user experiences.</h3>
+
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asttttha&show_icons=true&locale=en" alt="ashutosh-pmishra" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asttttha&" alt="" /></p>
+
+<br>
+<h2 align="center">Languages and tools</h2>
+<br>
 <div align="center">
-
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,26 +43,14 @@ I'm a Front-end developer 🖥️ currently based in Kolkata, West Bengal 🌆. 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+<br>
 
----
+<h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"/> Connect</h2>
+<br>
+<div align="center">
+  
+[Email](asthas2018@gmail.com) [LinkedIn](https://www.linkedin.com/in/astha-samaddar-228406228/) [GitHub](https://github.com/Asttttha) [Portfolio](https://asthasamaddar.netlify.app/) 
+</div>
 
-### Contact Information 📞✉️
-- [Email](asthas2018@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/astha-samaddar-228406228/)
-- [GitHub](https://github.com/Asttttha)
-- [Portfolio](https://asthasamaddar.netlify.app/)
-- **Location**: Kolkata, West Bengal 🌆
 
-### Technical Skills 🛠️
-- Proficient in code explanation, ensuring clarity and maintainability. 
-- Experienced in code review, offering constructive feedback to enhance code quality. 
-- Skilled in code refactoring to improve efficiency and readability. 
-- Capable of code completion, ensuring projects meet specifications. 
-- Adept at bug detection and resolution, enhancing software reliability. 
-- Experienced in creating comprehensive documentation for projects. 
 
-### Soft Skills 🧠
-- Creative writing ✍️
-- Using digital tools to create compelling graphics and multimedia content 🖼️
-- Adaptive, adjusting to changing environments and embracing new challenges 🌱
-- Collaborating effectively with diverse team
